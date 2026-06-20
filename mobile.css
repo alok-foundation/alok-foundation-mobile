@@ -416,7 +416,7 @@ body {
   .link-list a:hover{ color:#3B6455; }
   .map-col iframe{ border-radius:10px; box-shadow:0 4px 10px rgba(0,0,0,.25); }
 
-/* === Footer (Switch to Mobile Version link) === */
+/* === Footer (Switch to Desktop Version link) === */
 .footer {
     clear: both;
     position: relative;
@@ -440,7 +440,7 @@ body {
     text-decoration: underline;
     text-decoration-color: #F8C007;
 }
-  
+
   /* ── Tablet: Logo top center, Explore | Contact in one row, Map full-width ── */
   @media (max-width: 991px){
     .contact-wrap{
